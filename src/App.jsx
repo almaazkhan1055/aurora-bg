@@ -5,7 +5,7 @@ function App() {
   return (
     <main className="flex items-center justify-center h-screen">
       <h1 className="text-4xl font-bold z-10 text-zinc-800">
-        Made by Almaaz Khan
+        Made with &#10084; by Almaaz Khan
       </h1>
       <AuroraBackground />
     </main>
