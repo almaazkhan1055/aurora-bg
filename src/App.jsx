@@ -5,9 +5,6 @@ import { motion } from "framer-motion";
 function App() {
   return (
     <main className="flex items-center justify-center h-screen">
-      {/* <h1 className="text-4xl font-bold z-10 text-zinc-800">
-        Made with &#10084; by Almaaz Khan
-      </h1> */}
       <motion.div
         initial={{ opacity: 0.0, y: 40 }}
         whileInView={{ opacity: 1, y: 0 }}
